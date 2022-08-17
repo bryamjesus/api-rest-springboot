@@ -1,4 +1,4 @@
-# api-rest-springboot
+# API con Spring Boot
 
 ![Crear Usuario](src/main/resources/static/img/create.png)
 
